@@ -1,6 +1,6 @@
 # Book Sales Performance Analysis 📚💰
 
-![Box Plot](images/box-plot.png)
+![Box Plot](https://github.com/Mahyarosi/Book-Sales-Performance-Analysis/blob/main/Boxplot.png)
 
 ## 🎯 Project Overview
 
